@@ -1,0 +1,8 @@
+**/__pycache__
+*.class
+*.pyc
+*.xcodeproj
+toremote
+*.xcodeproj
+.vscode/*
+.history/**

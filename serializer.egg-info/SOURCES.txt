@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+serializer/__init__.py
+serializer.egg-info/PKG-INFO
+serializer.egg-info/SOURCES.txt
+serializer.egg-info/dependency_links.txt
+serializer.egg-info/top_level.txt
+serializer/lib/__init__.py
+serializer/lib/bcolors.py
+serializer/lib/serializer.py

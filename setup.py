@@ -7,7 +7,7 @@ setup(
       This is a package to serialize execution of code over multiple processes.
       """,
     author="Benjamin Bastian-Querner",
-    author_email="benjamin.bastian@desy.de",
+    author_email="benjamin.bastianquerner@gmail.com",
     packages=find_packages(),
     # scripts=["bin/ioblocker"],
 )

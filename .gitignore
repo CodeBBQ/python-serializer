@@ -6,3 +6,4 @@ toremote
 *.xcodeproj
 .vscode/*
 .history/**
+*.egg-info

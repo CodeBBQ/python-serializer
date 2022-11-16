@@ -1,6 +1,0 @@
-Metadata-Version: 2.1
-Name: serializer
-Version: 1.0.0
-Summary: This is a package to serialize execution of code over multiple processes.
-Author: Benjamin Bastian-Querner
-Author-email: benjamin.bastian@desy.de
